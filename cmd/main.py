@@ -1,4 +1,6 @@
+import os
 import requests
+from bs4 import BeautifulSoup
 
 URL1 = 'https://www.python.org/'
 URL2 = 'https://www.wikipedia.org/'
@@ -9,8 +11,25 @@ def main():
     })
     if req.status_code == 200:
         print(req.headers)
-        with open('req.html', 'wb') as f:
-            f.write(req.content)
+        print()
+        soup = BeautifulSoup(req.content, 'html.parser')
+        
+        lang_list = soup.find_all('a', class_="link-box")
+        
+        result_path = '../results'
+        if not os.path.exists(result_path):
+            os.makedirs(result_path)
+
+        with open(f'{result_path}/wikipedia-result.txt', 'w', encoding='utf-8') as f:
+            for el in lang_list:
+                url = f"https:{el['href']}"
+                lang = el.find('strong').text
+                cnt = el.find('small').text
+                print(lang, url, cnt)
+                f.write(f'{url};{lang};{cnt}\n')
+
+
+
     else:
         print(f'Ошибка запроса\n Status Code: {req.status_code}')
         with open('error.html', 'wb') as f:
