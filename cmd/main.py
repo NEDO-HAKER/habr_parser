@@ -1,6 +1,6 @@
-import os
 import requests
 from bs4 import BeautifulSoup
+from utils import check_and_crate_result
 
 URL1 = 'https://www.python.org/'
 URL2 = 'https://www.wikipedia.org/'
@@ -16,9 +16,7 @@ def main():
         
         lang_list = soup.find_all('a', class_="link-box")
         
-        result_path = '../results'
-        if not os.path.exists(result_path):
-            os.makedirs(result_path)
+        result_path = check_and_crate_result()
 
         with open(f'{result_path}/wikipedia-result.txt', 'w', encoding='utf-8') as f:
             for el in lang_list:
