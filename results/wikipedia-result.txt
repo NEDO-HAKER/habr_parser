@@ -1,0 +1,10 @@
+https://en.wikipedia.org/;English;7,166,000+ articles
+https://ja.wikipedia.org/;日本語;1,497,000+ 記事
+https://de.wikipedia.org/;Deutsch;3.111.000+ Artikel
+https://ru.wikipedia.org/;Русский;2 094 000+ статей
+https://fr.wikipedia.org/;Français;2 750 000+ articles
+https://es.wikipedia.org/;Español;2.106.000+ artículos
+https://zh.wikipedia.org/;中文;1,530,000+ 条目 / 條目
+https://it.wikipedia.org/;Italiano;1.964.000+ voci
+https://pl.wikipedia.org/;Polski;1 690 000+ haseł
+https://pt.wikipedia.org/;Português;1.168.000+ artigos
