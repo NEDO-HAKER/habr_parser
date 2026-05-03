@@ -1,0 +1,39 @@
+header: КлокВоркПанк
+views: 1
+link: https://habr.com/ru/articles/1030768/header: Токенная разработка: почему я плачу $200 в месяц, а не $800 за устаревшее железо
+views: 91
+link: https://habr.com/ru/articles/1030678/header: Очередная находка марсохода, подозрительно напоминающая следы древней жизни на Земле
+views: 204
+link: https://habr.com/ru/news/1030790/header: Как агропредприятию сохранить управляемость в кризис: практический взгляд на 1С:ERP Агропромышленный комплекс
+views: 613
+link: https://habr.com/ru/articles/1030820/header: Японские военные начали использовать картонные дроны самолётного типа
+views: 311
+link: https://habr.com/ru/news/1030818/header: Почему ИИ-друг опасен: что инженеры могут сделать уже сегодня
+views: 1.9K
+link: https://habr.com/ru/articles/1030816/header: Обученный на квантовом процессоре ИИ предсказал турбулентность на 20% точнее классики
+views: 2K
+link: https://habr.com/ru/news/1030814/header: Immunefi: разочарование в Web3-хантинге и почему проект вам не заплатит (а платформа ничего с этим не сделает)
+views: 2K
+link: https://habr.com/ru/articles/1030812/header: Postgresso #3 (88)
+views: 1.9K
+link: https://habr.com/ru/companies/postgrespro/articles/1006634/header: Когда pull request выглядит нормальным, но ревью на нём всё равно зависает
+views: 2.3K
+link: https://habr.com/ru/articles/1030810/header: Внутренний CLAUDE.md Apple утек в сеть: видно, как компания использует ИИ в поддержке
+views: 2.8K
+link: https://habr.com/ru/news/1030808/header: Досудебный порядок: алгоритмы, обязательные требования и защита от возврата исков
+views: 3K
+link: https://habr.com/ru/articles/1030806/header: Французский ретейлер продаёт неисправные видеокарты GeForce RTX 5090 за полцены
+views: 4K
+link: https://habr.com/ru/news/1030804/header: Как я собрал на DGX Spark приватный AI-сервер, и теперь рассказываю, что туда вошло
+views: 3.9K
+link: https://habr.com/ru/articles/1030802/header: Пора начинать использовать интернет как в конце 90-х
+views: 4.9K
+link: https://habr.com/ru/companies/ruvds/articles/1029390/header: Выпуск обновления Wine 11.8
+views: 4.1K
+link: https://habr.com/ru/news/1030574/header: Комплексное изучение и совершенствование деятельности компании. Как это сделать и что это дает? [Нужно исправить списки]
+views: 3.3K
+link: https://habr.com/ru/articles/1030798/header: GraphCompose: как я приволок ECS из геймдева и снапшот-тесты из фронта в PDF-генерацию на Java
+views: 4.2K
+link: https://habr.com/ru/articles/1030796/header: Пять странных гаджетов весны 2026 года: клавиатура с экраном, SSD с ОС и кое-что еще
+views: 4.3K
+link: https://habr.com/ru/companies/ru_mts/articles/1027312/
