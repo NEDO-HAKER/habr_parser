@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+
+    <body>
+        <h1>Заголовок</h1>
+        <p>{{ dis_text }}</p>
+        <ul>
+            {% for student in students %}
+                <li>
+                    <em>{{ student.name }}</em>
+                    <em>{{ student.age }}</em>
+                </li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>
